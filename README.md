@@ -1,2 +1,2 @@
 # postman  
-Pet.Swagger.io collection
+Pet.Swagger.io collection requests
